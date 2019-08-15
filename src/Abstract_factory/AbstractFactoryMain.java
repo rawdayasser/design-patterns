@@ -1,5 +1,13 @@
 package Abstract_factory;
-
+/**
+ * @author Rawda Yasser
+ * 
+ */
+/**
+ * 
+ * Abstract Factory is a creational design pattern 
+ * used to create families of related objects without typing the new keyword
+ */
 public class AbstractFactoryMain {
 	public static void main(String[] args) {
 		AbstractFactory factory = new FactoryA();
